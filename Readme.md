@@ -1,5 +1,5 @@
 ## **Overview**
-`BackdoorSim` is a remote administration and monitoring tool designed for educational and testing purposes. It consists of two main components: `ControlServer` and `BackdoorClient`. The server controls the client, allowing for various operations like file transfer, system monitoring, and more.
+Backdoor is a remote administration and monitoring tool designed for educational and testing purposes. It consists of two main components: ControlServer and BackdoorClient. The server controls the client, allowing for various operations like file transfer, system monitoring, and more.
 
 ## **Disclaimer**
 This tool is intended for educational purposes only. Misuse of this software can violate privacy and security policies. The developers are not responsible for any misuse or damage caused by this software. Always ensure you have permission to use this tool in your intended environment.
