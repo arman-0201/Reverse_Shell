@@ -14,7 +14,7 @@ This tool is intended for educational purposes only. Misuse of this software can
 - **Help Menu**: Easy access to command information and usage.
 
 ## **Installation**
-To set up `BackdoorSim`, you will need to install it on both the server and client machines.
+To set up BackdoorSim, you will need to install it on both the server and client machines.
 
 1. Clone the repository:
 
